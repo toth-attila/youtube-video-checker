@@ -1,4 +1,4 @@
-youtube-video-checker
+Youtube Video Checker
 =====================
 
 Check the availability of Youtube videos
