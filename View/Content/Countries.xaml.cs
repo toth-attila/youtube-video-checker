@@ -13,19 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace YoutubeVideoChecker.Content
+namespace YoutubeVideoChecker.View.Content
 {
     /// <summary>
-    /// Interaction logic for SettingsAppearance.xaml
+    /// Interaction logic for Countries.xaml
     /// </summary>
-    public partial class SettingsAppearance : UserControl
+    public partial class Countries : UserControl
     {
-        public SettingsAppearance()
+        public Countries()
         {
             InitializeComponent();
-
-            // create and assign the appearance view model
-            this.DataContext = new SettingsAppearanceViewModel();
         }
     }
 }

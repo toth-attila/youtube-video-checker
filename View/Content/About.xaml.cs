@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace YoutubeVideoChecker.Content
+namespace YoutubeVideoChecker.View.Content
 {
     /// <summary>
     /// Interaction logic for About.xaml
